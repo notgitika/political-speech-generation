@@ -1,0 +1,9 @@
+,Person,Number of topics,Topic names inferred from input,Generated Output Most Probable Topic,Topic Distribution
+0,Adolf Hitler,5,"{0: 'German + American + Roosevelt', 1: 'German soldiers', 2: 'German proposal to Poland', 3: 'German people', 4: 'International Relations'}",International Relations,"[(0, 0.05681953), (1, 0.2238444), (2, 0.10785406), (4, 0.6112816)]"
+1,Joe Biden,8,"{0: 'Taliban, Afghanistan', 1: 'Mass shootings in school', 2: 'Covid', 3: 'Americans', 4: 'Russia-Ukraine conflict', 5: 'American work culture', 6: 'Democracy', 7: 'Other'}",Democracy,"[(0, 0.348541), (4, 0.01905531), (5, 0.04245014), (6, 0.5889277)]"
+2,John F Kennedy,7,"{0: 'Economy', 1: 'Senate', 2: 'Nuclear Weapons', 3: 'Soviet', 4: 'America', 5: 'Education', 6: 'Peace and Freedom'}",Peace and Freedom,"[(0, 0.41971806), (1, 0.029765284), (6, 0.54991025)]"
+3,George Washington,6,"{0: 'Justice', 1: 'Unknown', 2: 'Law', 3: 'Unknown', 4: 'Govern', 5: 'Indians'}",Indians,"[(3, 0.25240892), (4, 0.053394724), (5, 0.6938911)]"
+4,Abraham Lincoln,4,"{0: 'Slavery', 1: 'Constitution', 2: 'Unknown', 3: 'People'}",Slavery,"[(0, 0.9230681), (1, 0.073111966)]"
+6,Hillary Clinton,4,"{0: 'Donald Trump', 1: 'Campaign', 2: 'Presidential Election, Donald Trump', 3: 'Human rights'}",Donald Trump,"[(0, 0.54436153), (1, 0.054304216), (3, 0.40091088)]"
+7,Barack Obama,3,"{0: 'Kenya', 1: 'America', 2: 'Global'}",Global,"[(0, 0.23353617), (1, 0.2785777), (2, 0.48788616)]"
+8,Donald Trump,3,"{0: 'Election', 1: 'Unknown', 2: 'Americans'}",Election,"[(0, 0.4278585), (1, 0.34037772), (2, 0.23176377)]"
